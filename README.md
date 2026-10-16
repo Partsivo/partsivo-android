@@ -26,17 +26,10 @@ Partsivo دليل مغربي لتوافق قطع الغيار: كتقلب على
 - خاص الإنترنت: ما كاينش كتالوج كامل بلا اتصال.
 - قاعدة البيانات مازال كتكبر، وشي موديلات ولا قطع ما كايناش.
 - معلومات المجتمع يمكن يكون فيها غلط؛ تأكد قبل ما تشري.
-- نسخة APK ونسخة Play ما كيتبدلوش ف بعضياتهم: إلا بغيتي تبدل، مسح الأولى عاد ثبت الثانية.
+- هاد الـ APK موقّع بنفس مفتاح Google Play، يعني تقدر تحدّث من Play فوقو بلا ما تمسح والو.
 
-### أشمن ملف نختار؟
-| الملف | لمن؟ |
-|---|---|
-| `partsivo-universal.apk` | **إلا ما عرفتيش، خود هادا** — كيخدم ف كاع الأجهزة (حجمو أكبر) |
-| `partsivo-arm64-v8a.apk` | أغلب التيليفونات الجديدة (2017 وطالع) |
-| `partsivo-armeabi-v7a.apk` | التيليفونات القديمة (32-bit) |
-| `partsivo-x86_64.apk` | المحاكيات (emulators) و Chromebook |
-
-**مهم:** بقا ديما على نفس النوع ف التحديثات (universal ديما universal، أو arm64 ديما arm64).
+### الملف
+`partsivo-universal.apk` كيخدم ف كاع التيليفونات ديال Android.
 
 ### طريقة التثبيت
 1. حمّل الملف من [آخر إصدار](../../releases/latest).
@@ -72,17 +65,10 @@ Many people in Morocco waste money on parts that don't fit. Repair shops and sel
 - Needs an internet connection: there is no full offline catalog.
 - The compatibility database is still growing; some models or parts are missing.
 - Community data can contain mistakes; double-check before you buy.
-- The APK and Play versions can't update each other. To switch, uninstall one and then install the other.
+- This APK is signed with the same Google Play key, so Play can update it in place (and vice versa).
 
-### Which APK?
-| File | For |
-|---|---|
-| `partsivo-universal.apk` | **Not sure? Pick this.** Works on every device (bigger download) |
-| `partsivo-arm64-v8a.apk` | Most modern phones (2017+) |
-| `partsivo-armeabi-v7a.apk` | Older 32-bit phones |
-| `partsivo-x86_64.apk` | Emulators and Chromebooks |
-
-**Important:** keep the same type for future updates (universal → universal, arm64 → arm64).
+### File
+`partsivo-universal.apk` works on every Android phone.
 
 ### Install
 1. Download from the [latest release](../../releases/latest).
